@@ -118,7 +118,7 @@ console.log(data.headline); // Display headline
 
 ---
 
-## Next Steps for Igwe (Frontend)
+## Next Steps for Frontend
 
 1. Clone the repo:
    ```bash
@@ -129,3 +129,4 @@ console.log(data.headline); // Display headline
 4. Reference the frontend integration section for how JSON is structured.
 
 ---
+
