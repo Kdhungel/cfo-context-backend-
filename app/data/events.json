@@ -1,0 +1,14 @@
+[
+  {
+    "client_id": "client_acme",
+    "description": "AWS spend increased 18% MoM"
+  },
+  {
+    "client_id": "client_beta",
+    "description": "Customer churn increased 5%"
+  },
+  {
+    "client_id": "client_gamma",
+    "description": "Closed Series B extension"
+  }
+]

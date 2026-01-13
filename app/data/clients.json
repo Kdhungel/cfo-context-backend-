@@ -1,0 +1,14 @@
+[
+  {
+    "id": "client_acme",
+    "name": "Acme Robotics",
+    "industry": "Manufacturing",
+    "stage": "Series B"
+  },
+  {
+    "id": "client_zephyr",
+    "name": "Zephyr FinTech",
+    "industry": "Financial Services",
+    "stage": "Series A"
+  }
+]

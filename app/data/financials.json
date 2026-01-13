@@ -1,0 +1,20 @@
+[
+  {
+    "client_id": "client_acme",
+    "cash_balance": 4200000.0,
+    "monthly_burn": 810000.0,
+    "revenue_mom_growth": 0.06
+  },
+  {
+    "client_id": "client_beta",
+    "cash_balance": 1200000.0,
+    "monthly_burn": 300000.0,
+    "revenue_mom_growth": -0.02
+  },
+  {
+    "client_id": "client_gamma",
+    "cash_balance": 8000000.0,
+    "monthly_burn": 500000.0,
+    "revenue_mom_growth": 0.15
+  }
+]
